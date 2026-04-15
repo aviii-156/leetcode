@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [1848-minimum-distance-to-the-target-element](https://github.com/aviii-156/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aviii-156/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/aviii-156/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Hash Table
 |  |
@@ -15,4 +16,8 @@
 | ------- |
 | [0584-find-customer-referee](https://github.com/aviii-156/leetcode/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/aviii-156/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## String
+|  |
+| ------- |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aviii-156/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 <!---LeetCode Topics End-->
