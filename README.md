@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/aviii-156/leetcode/tree/master/0260-single-number-iii) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/aviii-156/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aviii-156/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/aviii-156/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -48,4 +49,8 @@
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/aviii-156/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/aviii-156/leetcode/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
