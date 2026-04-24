@@ -39,6 +39,7 @@
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/aviii-156/leetcode/tree/master/0509-fibonacci-number) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/aviii-156/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aviii-156/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Two Pointers
@@ -69,4 +70,16 @@
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/aviii-156/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aviii-156/leetcode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aviii-156/leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aviii-156/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
