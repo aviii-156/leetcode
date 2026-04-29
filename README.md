@@ -30,6 +30,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/aviii-156/leetcode/tree/master/0125-valid-palindrome) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aviii-156/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Binary Search
 |  |
@@ -46,6 +47,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/aviii-156/leetcode/tree/master/0125-valid-palindrome) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aviii-156/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Greedy
 |  |
