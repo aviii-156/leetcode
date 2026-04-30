@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/aviii-156/leetcode/tree/master/0118-pascals-triangle) |
 | [0260-single-number-iii](https://github.com/aviii-156/leetcode/tree/master/0260-single-number-iii) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/aviii-156/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aviii-156/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -76,6 +77,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/aviii-156/leetcode/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/aviii-156/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
