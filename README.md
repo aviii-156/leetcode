@@ -45,6 +45,7 @@
 | [0009-palindrome-number](https://github.com/aviii-156/leetcode/tree/master/0009-palindrome-number) |
 | [0396-rotate-function](https://github.com/aviii-156/leetcode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/aviii-156/leetcode/tree/master/0509-fibonacci-number) |
+| [0788-rotated-digits](https://github.com/aviii-156/leetcode/tree/master/0788-rotated-digits) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/aviii-156/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aviii-156/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Two Pointers
@@ -82,6 +83,7 @@
 | [0118-pascals-triangle](https://github.com/aviii-156/leetcode/tree/master/0118-pascals-triangle) |
 | [0396-rotate-function](https://github.com/aviii-156/leetcode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/aviii-156/leetcode/tree/master/0509-fibonacci-number) |
+| [0788-rotated-digits](https://github.com/aviii-156/leetcode/tree/master/0788-rotated-digits) |
 ## Recursion
 |  |
 | ------- |
