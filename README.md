@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/aviii-156/leetcode/tree/master/0125-valid-palindrome) |
+| [0796-rotate-string](https://github.com/aviii-156/leetcode/tree/master/0796-rotate-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aviii-156/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Binary Search
 |  |
@@ -92,4 +93,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/aviii-156/leetcode/tree/master/0509-fibonacci-number) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/aviii-156/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
