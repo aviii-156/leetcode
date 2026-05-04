@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aviii-156/leetcode/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/aviii-156/leetcode/tree/master/0118-pascals-triangle) |
 | [0260-single-number-iii](https://github.com/aviii-156/leetcode/tree/master/0260-single-number-iii) |
 | [0396-rotate-function](https://github.com/aviii-156/leetcode/tree/master/0396-rotate-function) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/aviii-156/leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/aviii-156/leetcode/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/aviii-156/leetcode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/aviii-156/leetcode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/aviii-156/leetcode/tree/master/0788-rotated-digits) |
@@ -97,4 +99,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/aviii-156/leetcode/tree/master/0796-rotate-string) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/aviii-156/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
