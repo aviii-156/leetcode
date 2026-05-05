@@ -54,6 +54,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/aviii-156/leetcode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/aviii-156/leetcode/tree/master/0125-valid-palindrome) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aviii-156/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Greedy
@@ -103,4 +104,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aviii-156/leetcode/tree/master/0048-rotate-image) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/aviii-156/leetcode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
