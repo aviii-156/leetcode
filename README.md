@@ -10,6 +10,7 @@
 | [0396-rotate-function](https://github.com/aviii-156/leetcode/tree/master/0396-rotate-function) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/aviii-156/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aviii-156/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/aviii-156/leetcode/tree/master/1861-rotating-the-box) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/aviii-156/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aviii-156/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3488-closest-equal-element-queries](https://github.com/aviii-156/leetcode/tree/master/3488-closest-equal-element-queries) |
@@ -57,6 +58,7 @@
 | [0061-rotate-list](https://github.com/aviii-156/leetcode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/aviii-156/leetcode/tree/master/0125-valid-palindrome) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aviii-156/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/aviii-156/leetcode/tree/master/1861-rotating-the-box) |
 ## Greedy
 |  |
 | ------- |
@@ -104,6 +106,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aviii-156/leetcode/tree/master/0048-rotate-image) |
+| [1861-rotating-the-box](https://github.com/aviii-156/leetcode/tree/master/1861-rotating-the-box) |
 ## Linked List
 |  |
 | ------- |
