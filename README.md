@@ -14,6 +14,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/aviii-156/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aviii-156/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3488-closest-equal-element-queries](https://github.com/aviii-156/leetcode/tree/master/3488-closest-equal-element-queries) |
+| [3660-jump-game-ix](https://github.com/aviii-156/leetcode/tree/master/3660-jump-game-ix) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/aviii-156/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/aviii-156/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
@@ -90,6 +91,7 @@
 | [0396-rotate-function](https://github.com/aviii-156/leetcode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/aviii-156/leetcode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/aviii-156/leetcode/tree/master/0788-rotated-digits) |
+| [3660-jump-game-ix](https://github.com/aviii-156/leetcode/tree/master/3660-jump-game-ix) |
 ## Recursion
 |  |
 | ------- |
