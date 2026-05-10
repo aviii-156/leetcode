@@ -9,14 +9,14 @@ public:
             if(t[i]!=INT_MIN){
                 return t[i];
             }
-            int result =INT_MIN;
-            int maxans=-1;
+            
+            int maxans=INT_MIN;
             for(int j =i+1;j<n;j++){
                 if(abs(nums[j] - nums[i]) <= target){
                    int  temp= dfs(j,nums,target,t );
-                   if(temp!=-1){
+                  
                     maxans=max(maxans,1+temp);//recuression all possible jumps and get maximum 
-                   }
+                   
                    
                 }
             }
