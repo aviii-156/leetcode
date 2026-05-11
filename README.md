@@ -14,6 +14,7 @@
 | [1914-cyclically-rotating-a-grid](https://github.com/aviii-156/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/aviii-156/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aviii-156/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/aviii-156/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/aviii-156/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3488-closest-equal-element-queries](https://github.com/aviii-156/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/aviii-156/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -129,4 +130,5 @@
 |  |
 | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/aviii-156/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
+| [2553-separate-the-digits-in-an-array](https://github.com/aviii-156/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
