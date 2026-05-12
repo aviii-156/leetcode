@@ -8,6 +8,7 @@
 | [0118-pascals-triangle](https://github.com/aviii-156/leetcode/tree/master/0118-pascals-triangle) |
 | [0260-single-number-iii](https://github.com/aviii-156/leetcode/tree/master/0260-single-number-iii) |
 | [0396-rotate-function](https://github.com/aviii-156/leetcode/tree/master/0396-rotate-function) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/aviii-156/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/aviii-156/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aviii-156/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/aviii-156/leetcode/tree/master/1861-rotating-the-box) |
@@ -69,6 +70,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/aviii-156/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/aviii-156/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Bit Manipulation
 |  |
@@ -131,4 +133,8 @@
 | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/aviii-156/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/aviii-156/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/aviii-156/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 <!---LeetCode Topics End-->
