@@ -9,6 +9,7 @@
 | [0260-single-number-iii](https://github.com/aviii-156/leetcode/tree/master/0260-single-number-iii) |
 | [0396-rotate-function](https://github.com/aviii-156/leetcode/tree/master/0396-rotate-function) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/aviii-156/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/aviii-156/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/aviii-156/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aviii-156/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/aviii-156/leetcode/tree/master/1861-rotating-the-box) |
@@ -25,6 +26,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/aviii-156/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [3488-closest-equal-element-queries](https://github.com/aviii-156/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/aviii-156/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/aviii-156/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -137,4 +139,8 @@
 |  |
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/aviii-156/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+## Prefix Sum
+|  |
+| ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/aviii-156/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 <!---LeetCode Topics End-->
