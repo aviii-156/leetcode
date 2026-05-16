@@ -7,6 +7,7 @@
 | [0048-rotate-image](https://github.com/aviii-156/leetcode/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/aviii-156/leetcode/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aviii-156/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aviii-156/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0260-single-number-iii](https://github.com/aviii-156/leetcode/tree/master/0260-single-number-iii) |
 | [0396-rotate-function](https://github.com/aviii-156/leetcode/tree/master/0396-rotate-function) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/aviii-156/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aviii-156/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aviii-156/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aviii-156/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3488-closest-equal-element-queries](https://github.com/aviii-156/leetcode/tree/master/3488-closest-equal-element-queries) |
 ## Math
