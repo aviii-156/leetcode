@@ -24,6 +24,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/aviii-156/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aviii-156/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/aviii-156/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aviii-156/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3488-closest-equal-element-queries](https://github.com/aviii-156/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/aviii-156/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/aviii-156/leetcode/tree/master/3660-jump-game-ix) |
@@ -36,6 +37,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/aviii-156/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2540-minimum-common-value](https://github.com/aviii-156/leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aviii-156/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aviii-156/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3488-closest-equal-element-queries](https://github.com/aviii-156/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/aviii-156/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/aviii-156/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -55,6 +57,7 @@
 | [0125-valid-palindrome](https://github.com/aviii-156/leetcode/tree/master/0125-valid-palindrome) |
 | [0796-rotate-string](https://github.com/aviii-156/leetcode/tree/master/0796-rotate-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aviii-156/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aviii-156/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -160,4 +163,8 @@
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/aviii-156/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aviii-156/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
