@@ -76,6 +76,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/aviii-156/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/aviii-156/leetcode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/aviii-156/leetcode/tree/master/0070-climbing-stairs) |
 | [0396-rotate-function](https://github.com/aviii-156/leetcode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/aviii-156/leetcode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/aviii-156/leetcode/tree/master/0788-rotated-digits) |
@@ -123,6 +124,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aviii-156/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/aviii-156/leetcode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/aviii-156/leetcode/tree/master/0198-house-robber) |
 | [0396-rotate-function](https://github.com/aviii-156/leetcode/tree/master/0396-rotate-function) |
@@ -138,6 +140,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aviii-156/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/aviii-156/leetcode/tree/master/0509-fibonacci-number) |
 ## String Matching
 |  |
