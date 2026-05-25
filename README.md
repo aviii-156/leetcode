@@ -60,6 +60,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/aviii-156/leetcode/tree/master/0125-valid-palindrome) |
 | [0796-rotate-string](https://github.com/aviii-156/leetcode/tree/master/0796-rotate-string) |
+| [1871-jump-game-vii](https://github.com/aviii-156/leetcode/tree/master/1871-jump-game-vii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/aviii-156/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aviii-156/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Binary Search
@@ -131,6 +132,7 @@
 | [0509-fibonacci-number](https://github.com/aviii-156/leetcode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/aviii-156/leetcode/tree/master/0788-rotated-digits) |
 | [1340-jump-game-v](https://github.com/aviii-156/leetcode/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/aviii-156/leetcode/tree/master/1871-jump-game-vii) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/aviii-156/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3660-jump-game-ix](https://github.com/aviii-156/leetcode/tree/master/3660-jump-game-ix) |
 ## Recursion
@@ -174,8 +176,13 @@
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/aviii-156/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/aviii-156/leetcode/tree/master/1871-jump-game-vii) |
 ## Trie
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aviii-156/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/aviii-156/leetcode/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
