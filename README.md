@@ -80,6 +80,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/aviii-156/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/aviii-156/leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/aviii-156/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aviii-156/leetcode/tree/master/0070-climbing-stairs) |
 | [0396-rotate-function](https://github.com/aviii-156/leetcode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/aviii-156/leetcode/tree/master/0509-fibonacci-number) |
@@ -128,6 +129,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/aviii-156/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aviii-156/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/aviii-156/leetcode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/aviii-156/leetcode/tree/master/0198-house-robber) |
@@ -189,4 +191,8 @@
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/aviii-156/leetcode/tree/master/1871-jump-game-vii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/aviii-156/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
