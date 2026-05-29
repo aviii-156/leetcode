@@ -30,6 +30,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aviii-156/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/aviii-156/leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/aviii-156/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aviii-156/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3488-closest-equal-element-queries](https://github.com/aviii-156/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/aviii-156/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/aviii-156/leetcode/tree/master/3660-jump-game-ix) |
@@ -85,6 +86,7 @@
 | [0396-rotate-function](https://github.com/aviii-156/leetcode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/aviii-156/leetcode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/aviii-156/leetcode/tree/master/0788-rotated-digits) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/aviii-156/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/aviii-156/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/aviii-156/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/aviii-156/leetcode/tree/master/3783-mirror-distance-of-an-integer) |
