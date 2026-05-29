@@ -6,6 +6,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aviii-156/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/aviii-156/leetcode/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/aviii-156/leetcode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/aviii-156/leetcode/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aviii-156/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aviii-156/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/aviii-156/leetcode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/aviii-156/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/aviii-156/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/aviii-156/leetcode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/aviii-156/leetcode/tree/master/0198-house-robber) |
@@ -160,6 +162,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aviii-156/leetcode/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/aviii-156/leetcode/tree/master/0064-minimum-path-sum) |
 | [1861-rotating-the-box](https://github.com/aviii-156/leetcode/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/aviii-156/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 ## Linked List
