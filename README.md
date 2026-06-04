@@ -6,6 +6,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aviii-156/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/aviii-156/leetcode/tree/master/0048-rotate-image) |
+| [0056-merge-intervals](https://github.com/aviii-156/leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/aviii-156/leetcode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/aviii-156/leetcode/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aviii-156/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -195,6 +196,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/aviii-156/leetcode/tree/master/0056-merge-intervals) |
 | [1340-jump-game-v](https://github.com/aviii-156/leetcode/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/aviii-156/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2126-destroying-asteroids](https://github.com/aviii-156/leetcode/tree/master/2126-destroying-asteroids) |
