@@ -18,6 +18,7 @@
 | [0260-single-number-iii](https://github.com/aviii-156/leetcode/tree/master/0260-single-number-iii) |
 | [0396-rotate-function](https://github.com/aviii-156/leetcode/tree/master/0396-rotate-function) |
 | [1306-jump-game-iii](https://github.com/aviii-156/leetcode/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/aviii-156/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/aviii-156/leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/aviii-156/leetcode/tree/master/1345-jump-game-iv) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/aviii-156/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -50,6 +51,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/aviii-156/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/aviii-156/leetcode/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/aviii-156/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/aviii-156/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -210,6 +212,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/aviii-156/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/aviii-156/leetcode/tree/master/0075-sort-colors) |
+| [1331-rank-transform-of-an-array](https://github.com/aviii-156/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/aviii-156/leetcode/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/aviii-156/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2126-destroying-asteroids](https://github.com/aviii-156/leetcode/tree/master/2126-destroying-asteroids) |
