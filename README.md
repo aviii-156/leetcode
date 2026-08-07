@@ -14,6 +14,7 @@
 | [0120-triangle](https://github.com/aviii-156/leetcode/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aviii-156/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aviii-156/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/aviii-156/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/aviii-156/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aviii-156/leetcode/tree/master/0213-house-robber-ii) |
 | [0260-single-number-iii](https://github.com/aviii-156/leetcode/tree/master/0260-single-number-iii) |
@@ -101,6 +102,7 @@
 | [0048-rotate-image](https://github.com/aviii-156/leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/aviii-156/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aviii-156/leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/aviii-156/leetcode/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/aviii-156/leetcode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/aviii-156/leetcode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/aviii-156/leetcode/tree/master/0788-rotated-digits) |
@@ -118,6 +120,7 @@
 | [0061-rotate-list](https://github.com/aviii-156/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/aviii-156/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/aviii-156/leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/aviii-156/leetcode/tree/master/0189-rotate-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/aviii-156/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/aviii-156/leetcode/tree/master/1861-rotating-the-box) |
 | [2540-minimum-common-value](https://github.com/aviii-156/leetcode/tree/master/2540-minimum-common-value) |
