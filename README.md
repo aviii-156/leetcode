@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aviii-156/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aviii-156/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/aviii-156/leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/aviii-156/leetcode/tree/master/0056-merge-intervals) |
@@ -113,6 +114,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aviii-156/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/aviii-156/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/aviii-156/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/aviii-156/leetcode/tree/master/0125-valid-palindrome) |
