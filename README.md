@@ -12,6 +12,7 @@
 | [0075-sort-colors](https://github.com/aviii-156/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/aviii-156/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/aviii-156/leetcode/tree/master/0120-triangle) |
+| [0136-single-number](https://github.com/aviii-156/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aviii-156/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aviii-156/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/aviii-156/leetcode/tree/master/0189-rotate-array) |
@@ -140,6 +141,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/aviii-156/leetcode/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/aviii-156/leetcode/tree/master/0260-single-number-iii) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aviii-156/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Depth-First Search
