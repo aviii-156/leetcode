@@ -16,6 +16,7 @@
 | [0136-single-number](https://github.com/aviii-156/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aviii-156/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aviii-156/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/aviii-156/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aviii-156/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/aviii-156/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aviii-156/leetcode/tree/master/0213-house-robber-ii) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aviii-156/leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/aviii-156/leetcode/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/aviii-156/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/aviii-156/leetcode/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/aviii-156/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -223,6 +225,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/aviii-156/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/aviii-156/leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/aviii-156/leetcode/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/aviii-156/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/aviii-156/leetcode/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/aviii-156/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -276,4 +279,16 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aviii-156/leetcode/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aviii-156/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aviii-156/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aviii-156/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
