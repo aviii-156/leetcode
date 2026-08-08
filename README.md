@@ -268,4 +268,12 @@
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/aviii-156/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aviii-156/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aviii-156/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
