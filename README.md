@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aviii-156/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aviii-156/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/aviii-156/leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/aviii-156/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/aviii-156/leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/aviii-156/leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/aviii-156/leetcode/tree/master/0075-sort-colors) |
@@ -171,6 +172,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aviii-156/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/aviii-156/leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/aviii-156/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/aviii-156/leetcode/tree/master/0070-climbing-stairs) |
@@ -282,6 +284,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aviii-156/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/aviii-156/leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
